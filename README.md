@@ -11,3 +11,8 @@ License: CC0 (Public Domain)
 
 Folder: `atascii/`  
 License: CC0 (Public Domain)
+
+## bescii
+
+Folder: `bescii/`  
+License: CC0 (Public Domain)
