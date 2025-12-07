@@ -23,3 +23,9 @@ Damian V -
 License: CC0 (Public Domain) - 
 https://codeberg.org/Dmian/font-bescii
 
+## cpc464
+
+Folder: `cpc464/`  
+Damian V - 
+License: CC0 (Public Domain) - 
+https://codeberg.org/Dmian/font-cpc464
