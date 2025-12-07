@@ -6,3 +6,8 @@ This repository contains textmode fonts released under the CC0 / Public Domain l
 
 Folder: `UrsaFont/`  
 License: CC0 (Public Domain)
+
+## atascii
+
+Folder: `atascii/`  
+License: CC0 (Public Domain)
